@@ -214,8 +214,4 @@ and
 
 <div align="center">
 
-## 💙 Made with Python
-
-### Happy Coding 🚀
-
 </div>
